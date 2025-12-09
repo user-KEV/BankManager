@@ -1,5 +1,7 @@
+cat << 'EOF' > docs/guida_utente.md
 # Guida Utente – BankManager
 
+## Installazione
 1. Clona la repository:
    \`\`\`bash
    git clone https://github.com/TUO_USERNAME/bank-manager.git
@@ -29,9 +31,9 @@ Il programma richiede:
 
 ### Esempio output
 \`\`\`
-**********************
+=====================
 Benvenuto nella banca!
-**********************
+=====================
 Cliente: Mario Rossi
 Patrimonio: 1200 €
 Debiti: 300 €
