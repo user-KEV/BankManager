@@ -31,6 +31,7 @@ Il programma richiede:
 
 ### Esempio output
 \`\`\`
+
 =====================
 Benvenuto nella banca!
 =====================
