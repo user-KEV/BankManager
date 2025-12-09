@@ -1,3 +1,4 @@
+cat << 'EOF' > docs/progetto.md
 # BankManager – Gestione Bancaria in C++
 
 ## Descrizione
@@ -13,8 +14,12 @@ BankManager è un'applicazione console scritta in C++ che simula la gestione di 
 - Gestire input utente e condizioni di errore in modo sicuro.
 
 ## Struttura del progetto
-src/ → codice sorgente (.cpp)
-include/ → header file (.h)
+\`\`\`
+src/       → codice sorgente (.cpp)
+include/   → header file (.h)
+docs/      → documentazione
+\`\`\`
 
 ## Autore
-Sviluppato da user-KEV
+Sviluppato da [user-KEV]
+EOF
